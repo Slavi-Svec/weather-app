@@ -2,10 +2,12 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-direction: column;
   font-family:  Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .container {
+  margin-top: 100px;
   text-align: center;
   padding: 4rem;
   border-radius: 8px;
