@@ -14,4 +14,19 @@ body {
   width: 60%;
   border: 2px solid black;
   font-size: 24px;
+
 }
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.icon {
+  width: 100px;
+  height: 100px;
+}
+
