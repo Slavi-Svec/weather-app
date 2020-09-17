@@ -22,7 +22,6 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-
 }
 
 .icon {
@@ -30,3 +29,6 @@ body {
   height: 100px;
 }
 
+.weather-wrapper {
+  border: 1px green solid;
+}
